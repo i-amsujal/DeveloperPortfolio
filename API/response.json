@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "source_url": "https://jsonplaceholder.typicode.com/users",
+    "status_code": 200,
+    "fetched_at_utc": "2026-11-26T12:51:41Z",
+    "record_count": 5
+  },
+  "data": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "city": "Gwenborough",
+      "company": "Romaguera-Crona",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "city": "Wisokyburgh",
+      "company": "Deckow-Crist",
+      "website": "anastasia.net"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "city": "McKenziehaven",
+      "company": "Romaguera-Jacobson",
+      "website": "ramiro.info"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "city": "South Elvis",
+      "company": "Robel-Corkery",
+      "website": "kale.biz"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "city": "Roscoeview",
+      "company": "Keebler LLC",
+      "website": "demarco.info"
+    }
+  ]
+}
